@@ -1,0 +1,6 @@
+framework module Pods_Xmpp_Example {
+  umbrella header "Pods-Xmpp-Example-umbrella.h"
+
+  export *
+  module * { export * }
+}
